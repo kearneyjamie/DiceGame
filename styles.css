@@ -1,0 +1,71 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #79f491;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #4ECCA3;
+  font-size: 8rem;
+  color: #f59179;
+}
+
+p {
+  font-size: 2rem;
+  color: #f59179;
+  font-family: 'Indie Flower', cursive;
+  font-weight: 800;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+
+.winner{
+  text-align: center;
+  font-size: 5rem;
+  margin-top: 2vh;
+  color: #f59179;
+  font-family: 'Indie Flower', cursive;
+}
+
+.play-again{
+  text-align: center;
+  margin-top: 4vh;
+}
+
+.button-play{
+  width: 20vw;
+  height: 6vh;
+  background-color: #f59179;
+  border: none;
+  border-radius: 12px;
+  color: white;
+  font-size: 1.5rem;
+}
+
+footer{
+  color: #f59179;
+  font-weight: bold;
+  font-size: 2rem;
+}
