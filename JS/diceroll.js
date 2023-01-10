@@ -19,7 +19,7 @@ function rollDice(){
 
     switch(player1Roll){
         case 1:
-            document.getElementById("player1").src="DiceGame/images/dice1.png";
+            document.getElementById("player1").src="images/dice1.png";
         break;
         case 2:
             document.getElementById("player1").src="DiceGame/images/dice2.png";
