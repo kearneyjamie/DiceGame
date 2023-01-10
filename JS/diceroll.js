@@ -26,18 +26,18 @@ function rollDice(){
     
         break;
         case 3:
-            document.getElementById("player1").src="images/dice3.png";
+            document.getElementById("player1").src="DiceGame/images/dice3.png";
     
         break;
         case 4:
-            document.getElementById("player1").src="images/dice4.png";
+            document.getElementById("player1").src="DiceGame/images/dice4.png";
         break;    
     
         case 5:
-            document.getElementById("player1").src="images/dice5.png";
+            document.getElementById("player1").src="DiceGame/images/dice5.png";
         break;    
         case 6:
-            document.getElementById("player1").src="images/dice6.png";
+            document.getElementById("player1").src="DiceGame/images/dice6.png";
         break;
     
     }
